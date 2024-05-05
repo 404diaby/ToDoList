@@ -116,7 +116,10 @@ body{
 }
 
 
-
+  
+.attribution { font-size: 11px; text-align: center;margin-top : 25px;}
+.attribution a { text-decoration:none;color:#4682B4 }
+.attribution a:hover{color:orange;}
 
 
 
@@ -327,3 +330,6 @@ ANIMATION PART
     font-style: italic;
   }
   
+
+
+
