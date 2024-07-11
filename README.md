@@ -16,7 +16,7 @@ A dynamic and aesthetic To-Do List Website built with HTML, CSS, JavaScript.
 ## Preview
 
 
-![Preview Image](./demo/demo1.png)
+![Preview Image](./demo/demo.png)
 
 ![Preview Image](./demo/demo2.png)
 
@@ -24,7 +24,7 @@ A dynamic and aesthetic To-Do List Website built with HTML, CSS, JavaScript.
 
 ![Preview Image](./demo/demo4.png)
 
-![Preview Image](./demo/demo5.mp4)
+https://github.com/404diaby/ToDoList/blob/main/demo/demo5.mp4
 
 
 
