@@ -3,53 +3,29 @@ A dynamic and aesthetic To-Do List Website built with HTML, CSS, JavaScript.
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-![Preview Image](./demo/demo.png)
-
-
+![Preview Image](./demo/demo2.png)
 
 
 ## Features
 
 * Create, edit, and delete tasks with ease
-* Filter tasks by title using the search bar
-* Sort tasks by date, completion status, priority, or title
 * Mark tasks as completed or pending
-* Edit task details, including title, body, and priority
-* Add new tasks using markdown syntaxe
-
-## Getting Started
-
-### Installation
-
-Clone the project
-
-* `git clone https://github.com/your-username/todolist-app.git`
-
-Go to the project directory
-
-* `cd my-project`
-
-Install dependencies
-
-* `npm install` or `yarn install`
-
-Start the server
-
-* `npm start` or `yarn start`
-
-### Usage
-
-* Open the application in your web browser: `http://localhost:3000`
-* Create a new task by clicking the "Add Task" button
-* Filter tasks using the search bar
-* Sort tasks using the dropdown menu
-* Edit or delete tasks as needed
+* Save tasks on your browser
 
 
 ## Preview
 
-![Preview Image](https://via.placeholder.com/300x200) k
-![Preview Image](https://via.placeholder.com/300x200)
+
+![Preview Image](./demo/demo1.png)
+
+![Preview Image](./demo/demo2.png)
+
+![Preview Image](./demo/demo3.png)
+
+![Preview Image](./demo/demo4.png)
+
+![Preview Image](./demo/demo5.mp4)
+
 
 
 => video image of usage et responsive
